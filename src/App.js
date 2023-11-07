@@ -1,10 +1,11 @@
 
 import './App.css';
+import Message from './Message';
 
 function App() {
   return (
     <div className="App">
-     <h1>Hello World</h1>
+     <Message></Message>
 
     </div>
   );

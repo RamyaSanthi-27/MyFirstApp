@@ -5,10 +5,10 @@ import Message from './Message';
 function App() {
   return 
     //<div className="App">
-     {/* <Message place="Earth" at1="value1"></Message>
+     /* <Message place="Earth" at1="value1"></Message>
      <Message place="Moon"></Message>
      <Message place="Mars"></Message>
-     <Message place="Jupiter"></Message> */}
+     <Message place="Jupiter"></Message> */
      //</div>
 <section class="pricing py-5">
     <div class="container">

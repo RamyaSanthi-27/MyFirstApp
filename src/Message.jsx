@@ -17,7 +17,7 @@
 
 function Message({plan,price,user,storage,pubproject,access,priproject,phone,subdomain,reports}){
     return         
-        <>
+        
             <div class="col-lg-4">
           <div class="card mb-5 mb-lg-0">
             <div class="card-body">
@@ -46,7 +46,7 @@ function Message({plan,price,user,storage,pubproject,access,priproject,phone,sub
           </div>
         </div>
 
-        </>
+       
      
     
 } 

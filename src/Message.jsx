@@ -19,7 +19,8 @@ function Message({plan,price,user,storage,pubproject,access,priproject,phone,sub
     return 
 
         {/* <!-- Free Tier --> */}
-        <div class="col-lg-4">
+        <>
+            <div class="col-lg-4">
           <div class="card mb-5 mb-lg-0">
             <div class="card-body">
               <h5 class="card-title text-muted text-uppercase text-center">Free</h5>
@@ -46,6 +47,8 @@ function Message({plan,price,user,storage,pubproject,access,priproject,phone,sub
             </div>
           </div>
         </div>
+
+        </>
      
     
 } 
